@@ -16,19 +16,54 @@ The resources are located as you scroll down the ReadMe page.
 
 ## How to Contribute
 
-Kindly check out the _Contributions Guidelines_ for steps on how to add more resources and make other contributions to this repo.
+Kindly check out the [Contributing Guidelines](/main/CONTRIBUTING.md) for steps on how to add more resources and make other contributions to this repo.
 
 ## Types of Resources Available
 
+This repo is intended to contain different resources, ranging from e-books, to online courses and even documentation. All free of charge and publicly available.
+
 ## Share this Repo
 
-We will appreciate if you can share this repo and its resources for more publicity and contributors. You will definitely be helping someone out there.
+We will appreciate if you can star, fork and share this repo and its resources for more publicity and contributors. You will definitely be helping someone out there.
 
-# Resources
+## Resources
 
-## Category
+Below are high-level lists of all the resources contained in the repo so far, they are all categorized in relevant sections.
+
+### Books
+
+#### Programming Books
+
+- [Angular](/books/dev-books/Angular/angular.md)
+- [Computer Science](/books/dev-books/ComputerScience/computerscience.md)
+- [Database](/books/dev-books/Database/database.md)
+- [JavaScript](/books/dev-books/JavaScript/javascript.md)
+- [Nodejs](/books/dev-books/Nodejs/nodejs.md)
+- [PHP](/books/dev-books/PHP/php.md)
+- [Python](/books/dev-books/Python/python.md)
+- [React](/books/dev-books/React/react.md)
+- [TypeScript](/books/dev-books/TypeScript/typescript.md)
+- [Vuejs](/books/dev-books/Vue/vue.md)
+
+#### Design Books
+
+Contributors needed
+
+#### General Tech Books
+
+Contributors needed
+
+### Courses
+
+Contributors needed
+
+### Docs
+
+Contributors needed
 
 ## Contributors
+
+We appreciate the help of these amazing persons, without them, this project will not exist. Thank you all.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
