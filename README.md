@@ -1,4 +1,7 @@
 # List of Free Learning Books and Resources for Developers
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction to what this repository is about.
 The idea for this repository came about whilst we were having a Twitter space discussion on _Problem Solving as a Techie_. During the discussion, we all seemed to agree 
@@ -23,6 +26,20 @@ We will appreciate if you can share this repo and its resources for more publici
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/binadiegha"><img src="https://avatars.githubusercontent.com/u/19647826?v=4?s=100" width="100px;" alt="Jones Binadiegha Gabriel"/><br /><sub><b>Jones Binadiegha Gabriel</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 
