@@ -31,7 +31,9 @@ We will appreciate if you can share this repo and its resources for more publici
 <table>
   <tbody>
     <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/binadiegha"><img src="https://avatars.githubusercontent.com/u/19647826?v=4?s=100" width="100px;" alt="Jones Binadiegha Gabriel"/><br /><sub><b>Jones Binadiegha Gabriel</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://emmanueleboh.vercel.app"><img src="https://avatars.githubusercontent.com/u/63825997?v=4?s=100" width="100px;" alt="Emmanuel Eboh"/><br /><sub><b>Emmanuel Eboh</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=EOEboh" title="Documentation">📖</a></td>
+
     </tr>
   </tbody>
 </table>

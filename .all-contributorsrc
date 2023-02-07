@@ -7,10 +7,16 @@
   "commitConvention": "angular",
   "contributors": [
     {
+      "login": "binadiegha",
+      "name": "Jones Binadiegha Gabriel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19647826?v=4",
+      "profile": "https://github.com/binadiegha",
+
       "login": "EOEboh",
       "name": "Emmanuel Eboh",
       "avatar_url": "https://avatars.githubusercontent.com/u/63825997?v=4",
       "profile": "http://emmanueleboh.vercel.app",
+
       "contributions": [
         "doc"
       ]
