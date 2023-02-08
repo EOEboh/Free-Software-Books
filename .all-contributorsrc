@@ -1,9 +1,13 @@
 {
+  "projectName": "Free-Software-Books",
+  "projectOwner": "EOEboh",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
-  "commit": false,
+  "commit": true,
   "commitConvention": "angular",
   "contributors": [
     {
@@ -26,9 +30,5 @@
     }
   ],
   "contributorsPerLine": 7,
-  "skipCi": true,
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "projectName": "Free-Software-Books",
-  "projectOwner": "EOEboh"
+  "linkToUsage": true
 }

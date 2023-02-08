@@ -1,6 +1,23 @@
 ## Contributor Code of Conduct
 
-By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository.
+By contributing, you agree to respect the [Code of Conduct](/main/CODE_OF_CONDUCT.md) of this repository.
+
+## Get Started
+
+For you to contribute to this project, kindly follow these simple steps religiously.
+
+1. Open an Issue: this should contain a brief summary of what your contribution is all about. Whether it is a new resource to be added,
+   a bug fix, improvements and so on.
+
+In addition, adding labels to your issues is greatly appreciated.
+
+2. Fork the repo:
+
+3. Clone your forked version of the repo:
+
+4. Install necessary dependencies (optional): If you are just adding a new resource, you might not need to do this.
+
+We prefer `yarn` package manager,
 
 ## Guidelines
 
