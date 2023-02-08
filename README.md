@@ -1,9 +1,7 @@
 # List of Free Learning Books and Resources for Developers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction to what this repository is about.
@@ -72,8 +70,9 @@ We appreciate the help of these amazing persons, without them, this project will
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://emmanueleboh.vercel.app"><img src="https://avatars.githubusercontent.com/u/63825997?v=4?s=100" width="100px;" alt="Emmanuel Eboh"/><br /><sub><b>Emmanuel Eboh</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=EOEboh" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ibrahimraimi"><img src="https://avatars.githubusercontent.com/u/66981941?v=4?s=100" width="100px;" alt="Ibrahim Raimi"/><br /><sub><b>Ibrahim Raimi</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=ibrahimraimi" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/binadiegha"><img src="https://avatars.githubusercontent.com/u/19647826?v=4?s=100" width="100px;" alt="Jones Binadiegha Gabriel"/><br /><sub><b>Jones Binadiegha Gabriel</b></sub></a><br /><a href="#business-binadiegha" title="Business development">💼</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Code">💻</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ibrahimraimi"><img src="https://avatars.githubusercontent.com/u/66981941?v=4?s=100" width="100px;" alt="Ibrahim Raimi"/><br /><sub><b>Ibrahim Raimi</b></sub></a><br /><a href="#business-binadiegha" title="Business development">💼</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Code">💻</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=ibrahimraimi" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vicodev.me"><img src="https://avatars.githubusercontent.com/u/55485439?v=4?s=100" width="100px;" alt="Omoniyi Victor"/><br /><sub><b>Omoniyi Victor</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=vicodevv" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
