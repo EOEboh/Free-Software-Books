@@ -8,10 +8,10 @@ Please kindly follow this structure when you are contributing
 // List them as a direct link to the resource (No redirects)
 
 - [Title of the book pdf](direct link to the book)
- ### A
+### A
 - [A Smarter Way to Learn Javascript](https://drive.google.com/file/d/1KmoPCO8AqzhwF9VXvmkx1a2gjZv4oyDx/view?usp=share_link)
   
-  ### E
+### E
 - [Eloquent Javascript by Marjin Haverbeke](https://drive.google.com/file/d/1KtNo_n0fBfSExSD7kNk_SDX09W-4n42q/view?usp=share_link)
   
 ### J
