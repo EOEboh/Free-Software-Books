@@ -8,3 +8,4 @@ Please kindly follow this structure when you are contributing
 // List them as a direct link to the resource (No redirects)
 
 - [PostgreSQL](https://goalkicker.com/PostgreSQLBook/)
+- [Practical SQL: A beginners Guide](https://drive.google.com/file/d/1LGcFIlyeYUz0zxghNHlj9KQ7azCGX90G/view?usp=share_link)
