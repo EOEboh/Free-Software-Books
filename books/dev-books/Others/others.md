@@ -9,7 +9,7 @@ Please kindly follow this structure when you are contributing
 
 <!-- - [Title of the book pdf](direct link to the book) -->
 
-- [Refactoring UI](https://drive.google.com/file/d/1BBDRWce50nbml-L_PoT9eV2Yra4hvocP/view?usp=share_link){:target="_blank"}
+- [Refactoring UI](https://drive.google.com/file/d/1BBDRWce50nbml-L_PoT9eV2Yra4hvocP/view?usp=share_link)
 
 - [Master the Skill of Debugging CSS](https://drive.google.com/file/d/1cS5q-2GSTBI-ojsush7bIuuHHfGQX_Ok/view?usp=share_link)
 
