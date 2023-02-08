@@ -1,35 +1,15 @@
 {
-  "files": [
-    "README.md",
-    "CONTRIBUTORS.md"
-  ],
-  "imageSize": 100,
-  "commit": false,
-  "commitConvention": "angular",
-  "contributors": [
-    {
-      "login": "EOEboh",
-      "name": "Emmanuel Eboh",
-      "avatar_url": "https://avatars.githubusercontent.com/u/63825997?v=4",
-      "profile": "http://emmanueleboh.vercel.app",
-      "contributions": [
-        "doc"
-      ]
-    },
-    {
-      "login": "ibrahimraimi",
-      "name": "Ibrahim Raimi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/66981941?v=4",
-      "profile": "http://ibrahimraimi.bio.link",
-      "contributions": [
-        "code"
-      ]
-    }
-  ],
-  "contributorsPerLine": 7,
-  "skipCi": true,
+  "projectName": "Free-Software-Books",
+  "projectOwner": "EOEboh",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "Free-Software-Books",
-  "projectOwner": "EOEboh"
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
 }
