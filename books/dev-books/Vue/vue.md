@@ -6,5 +6,5 @@ Please kindly follow this structure when you are contributing
 
 // List everything in alphabetical order (A - Z)
 // List them as a direct link to the resource (No redirects)
-
-- [Title of the book pdf](direct link to the book)
+  
+- [30 Days of Vue](https://www.newline.co/30-days-of-vue)
