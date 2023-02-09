@@ -19,6 +19,8 @@ In addition, adding labels to your issues is greatly appreciated.
 
 We prefer `yarn` package manager,
 
+5. Create a pull request: create a pull request to propose and collaborate on changes to the repository. These changes are proposed in a separate branch, which ensures that the default branch only contains finished and approved work. A [PULL_REQUEST_TEMPLATE.md Template](https://github.com/EOEboh/Free-Software-Books/.github/PULL_REQUEST_TEMPLATE.md) has been provided to guide you.
+
 ## Guidelines
 
 Firstly, this repo is meant for FREE resources only! In the form of PDFs, DOCs and free online course and so on.
