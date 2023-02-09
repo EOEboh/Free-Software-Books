@@ -1,9 +1,7 @@
 # List of Free Learning Books and Resources for Developers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction to what this repository is about.
@@ -72,8 +70,16 @@ We appreciate the help of these amazing persons, without them, this project will
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="http://emmanueleboh.vercel.app"><img src="https://avatars.githubusercontent.com/u/63825997?v=4?s=100" width="100px;" alt="Emmanuel Eboh"/><br /><sub><b>Emmanuel Eboh</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=EOEboh" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ibrahimraimi"><img src="https://avatars.githubusercontent.com/u/66981941?v=4?s=100" width="100px;" alt="Ibrahim Raimi"/><br /><sub><b>Ibrahim Raimi</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=ibrahimraimi" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/binadiegha"><img src="https://avatars.githubusercontent.com/u/19647826?v=4?s=100" width="100px;" alt="Jones Binadiegha Gabriel"/><br /><sub><b>Jones Binadiegha Gabriel</b></sub></a><br /><a href="#business-binadiegha" title="Business development">💼</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Code">💻</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Tests">⚠️</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ibrahimraimi"><img src="https://avatars.githubusercontent.com/u/66981941?v=4?s=100" width="100px;" alt="Ibrahim Raimi"/><br /><sub><b>Ibrahim Raimi</b></sub></a><br /><a href="#business-binadiegha" title="Business development">💼</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=binadiegha" title="Code">💻</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=ibrahimraimi" title="Tests">⚠️</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://vicodev.me"><img src="https://avatars.githubusercontent.com/u/55485439?v=4?s=100" width="100px;" alt="Omoniyi Victor"/><br /><sub><b>Omoniyi Victor</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=vicodevv" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jemmycodes"><img src="https://avatars.githubusercontent.com/u/110843645?v=4?s=100" width="100px;" alt="Otebele Jemimah"/><br /><sub><b>Otebele Jemimah</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=jemmycodes" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sammy-code98"><img src="https://avatars.githubusercontent.com/u/46542941?v=4?s=100" width="100px;" alt="Uzor Samuel Ugochukwu"/><br /><sub><b>Uzor Samuel Ugochukwu</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=sammy-code98" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Klin-Coders"><img src="https://avatars.githubusercontent.com/u/49831574?v=4?s=100" width="100px;" alt="Bayode Emmanuel"/><br /><sub><b>Bayode Emmanuel</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=Klin-Coders" title="Code">💻</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JaeKralj"><img src="https://avatars.githubusercontent.com/u/70724119?v=4?s=100" width="100px;" alt="Jae"/><br /><sub><b>Jae</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=JaeKralj" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/meenarh"><img src="https://avatars.githubusercontent.com/u/52740748?v=4?s=100" width="100px;" alt="Dodo"/><br /><sub><b>Dodo</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=meenarh" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>

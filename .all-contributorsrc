@@ -38,6 +38,60 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "vicodevv",
+      "name": "Omoniyi Victor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55485439?v=4",
+      "profile": "http://vicodev.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jemmycodes",
+      "name": "Otebele Jemimah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110843645?v=4",
+      "profile": "https://github.com/jemmycodes",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sammy-code98",
+      "name": "Uzor Samuel Ugochukwu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46542941?v=4",
+      "profile": "https://github.com/sammy-code98",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Klin-Coders",
+      "name": "Bayode Emmanuel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49831574?v=4",
+      "profile": "https://github.com/Klin-Coders",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "JaeKralj",
+      "name": "Jae",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70724119?v=4",
+      "profile": "https://github.com/JaeKralj",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "meenarh",
+      "name": "Dodo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52740748?v=4",
+      "profile": "https://github.com/meenarh",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
