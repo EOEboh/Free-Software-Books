@@ -42,6 +42,7 @@ Below are high-level lists of all the resources contained in the repo so far, th
 - [React](/books/dev-books/React/react.md)
 - [TypeScript](/books/dev-books/TypeScript/typescript.md)
 - [Vuejs](/books/dev-books/Vue/vue.md)
+- [Others](/books/dev-books/Others/others.md)
 
 #### Design Books
 
