@@ -27,6 +27,8 @@ Please kindly follow this structure when you are contributing
 
 - [HTML5 Notes for Professionals](https://drive.google.com/file/d/1k4VDZDI_yqWAQpkqagXfe9tS-3VSAWIz/view?usp=sharing)
 
+- [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/)
+
 ### L
 
 - [Learning Web Design with Jennifer Nierdest](https://drive.google.com/file/d/1LBkKHv0BUKa6HW4bFNqOs_Sut6yjbmvy/view?usp=share_link)
