@@ -9,11 +9,11 @@ Please kindly follow this structure when you are contributing
 
 - [Title of the book pdf](direct link to the book)
 
+### M
+
+- [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/)
+
 ### P
 
 - [PostgreSQL](https://goalkicker.com/PostgreSQLBook/)
 - [Practical SQL: A beginners Guide](https://drive.google.com/file/d/1LGcFIlyeYUz0zxghNHlj9KQ7azCGX90G/view?usp=share_link)
-
-### M
-
-- [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/)
