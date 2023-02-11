@@ -1,7 +1,7 @@
 # List of Free Learning Books and Resources for Developers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction to what this repository is about.
@@ -81,6 +81,7 @@ We appreciate the help of these amazing persons, without them, this project will
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JaeKralj"><img src="https://avatars.githubusercontent.com/u/70724119?v=4?s=100" width="100px;" alt="Jae"/><br /><sub><b>Jae</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=JaeKralj" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/meenarh"><img src="https://avatars.githubusercontent.com/u/52740748?v=4?s=100" width="100px;" alt="Dodo"/><br /><sub><b>Dodo</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=meenarh" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/OlojaMuyiwa"><img src="https://avatars.githubusercontent.com/u/97600170?v=4?s=100" width="100px;" alt="OlojaMuyiwa"/><br /><sub><b>OlojaMuyiwa</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=OlojaMuyiwa" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
