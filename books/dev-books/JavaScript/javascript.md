@@ -66,9 +66,12 @@ Please kindly follow this structure when you are contributing
 
 - [JavaScript Examples Bible by Danny GoodMan](https://drive.google.com/file/d/1rd7lPJhsovotZebYwnQiMPvZm_zQkK4O/view?usp=sharing)
 
+- [JavaScript for Beginners](https://drive.google.com/file/d/1ZS0yIqrtFq1EzJcMb_v5mr_OXP5z3POt/view)
+
 - [Javascript Grammer by JS Tut](https://drive.google.com/file/d/1wjQQv-SWg819cnwaEoRPJDImF4F2iXl7/view?usp=sharing)
 
 
 ### Y
+
 - [You Don't Know JS by Kyle Simpson](https://drive.google.com/drive/folders/1wSYM3MMocTKK0jJib5GBBehlEd4wEycy?usp=sharing){:target="_blank"}
 
