@@ -129,6 +129,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "dapoadedire",
+      "name": "Dapo Adedire",
+      "avatar_url": "https://avatars.githubusercontent.com/u/95668340?v=4",
+      "profile": "http://dapoadedire.tech",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
