@@ -1,7 +1,7 @@
 # List of Free Learning Books and Resources for Developers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction to what this repository is about.
@@ -84,6 +84,7 @@ We appreciate the help of these amazing persons, without them, this project will
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/OlojaMuyiwa"><img src="https://avatars.githubusercontent.com/u/97600170?v=4?s=100" width="100px;" alt="OlojaMuyiwa"/><br /><sub><b>OlojaMuyiwa</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=OlojaMuyiwa" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Superior212"><img src="https://avatars.githubusercontent.com/u/94833173?v=4?s=100" width="100px;" alt="Samson Aderonmu"/><br /><sub><b>Samson Aderonmu</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=Superior212" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Onyelaudochukwuka"><img src="https://avatars.githubusercontent.com/u/82924100?v=4?s=100" width="100px;" alt="Onyela Udochukwuka"/><br /><sub><b>Onyela Udochukwuka</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=Onyelaudochukwuka" title="Documentation">📖</a> <a href="https://github.com/EOEboh/Free-Software-Books/commits?author=Onyelaudochukwuka" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BaRzz007"><img src="https://avatars.githubusercontent.com/u/92372234?v=4?s=100" width="100px;" alt="BaRzz007"/><br /><sub><b>BaRzz007</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=BaRzz007" title="Documentation">📖</a></td>
     </tr>
   </tbody>
   <tfoot>
