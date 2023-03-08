@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Introduction to what this repository is about.
+## Introduction to what this repository is about
 
 The idea for this repository came about whilst we were having a Twitter space discussion on _Problem Solving as a Techie_. During the discussion, we all seemed to agree
 that reading books and other in-depth resources like documentation exponentially improves our problem solving skills as developers, designers and tech professionals in general.
@@ -33,13 +33,19 @@ Below are high-level lists of all the resources contained in the repo so far, th
 #### Programming Books
 
 - [Angular](/books/dev-books/Angular/angular.md)
+- [C++](books/dev-books/C++/cpp.md)
 - [Computer Science](/books/dev-books/ComputerScience/computerscience.md)
 - [Database](/books/dev-books/Database/database.md)
+- [Git](books/dev-books/Git/Git.md)
+- [HTML and CSS](books/dev-books/HTML%20and%20CSS/htmlcss.md)
+- [Java](books/dev-books/Java/java.md)
 - [JavaScript](/books/dev-books/JavaScript/javascript.md)
+- [Linux](books/dev-books/Linux/linux.md)
 - [Nodejs](/books/dev-books/Nodejs/nodejs.md)
 - [PHP](/books/dev-books/PHP/php.md)
 - [Python](/books/dev-books/Python/python.md)
 - [React](/books/dev-books/React/react.md)
+- [Scratch](books/dev-books/Scratch/scratch.md)
 - [TypeScript](/books/dev-books/TypeScript/typescript.md)
 - [Vuejs](/books/dev-books/Vue/vue.md)
 - [Others](/books/dev-books/Others/others.md)

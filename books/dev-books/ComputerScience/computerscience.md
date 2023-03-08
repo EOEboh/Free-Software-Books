@@ -13,6 +13,7 @@ The books are all arranged in alphabetical order:
   - [Table of Contents](#table-of-contents)
   - [A](#a)
   - [C](#c)
+  - [G](#g)
 
 ## A
 
@@ -21,3 +22,7 @@ The books are all arranged in alphabetical order:
 ## C
 
 - [Coding with Minecraft: Build Taller, Farm Faster, Mine Deeper, and Automate the Boring Stuff by Al Sweigart](https://turtleappstore.com/book/)
+
+## G
+
+- [Grokking Algorithms](https://drive.google.com/file/d/1pRFTsDX0uYthSHBRInS-_7EG1LzU6QKd/view?usp=share_link)
