@@ -16,14 +16,16 @@ Please kindly follow this structure when you are contributing
 -[Learning React A Hands-On Guide to Building Web Applications Using React and Redux by Kirupa Chinnathambi](https://drive.google.com/file/d/1luZXCJG47RBsee46ouixTas0jhrMZPXC/view?usp=share_link)
 
 -[Learning React Functional Web Development with React and Redux by Alex Banks & Eve Porcello](https://drive.google.com/file/d/1EA6KAMPj0HKTQ4goDpgXy8KhmhwKgnmH/view?usp=share_link)
-
+  
+### M
+- [Mastering Full-Stack React Web Development](https://www.pdfdrive.com/mastering-full-stack-react-web-development-d196879971.html)
 
 ### O
 
 ### P
 -[Pure React_ A step-by-step guide to mastering React. by Dave Ceddia](https://drive.google.com/file/d/1hlrv8qUes9FapMO6e86ZGIesWbi9kub3/view?usp=share_link)
   
-  - [Practical React Native: Build Two full Projects and one full game using React Native] https://www.pdfdrive.com/practical-react-native-build-two-full-projects-and-one-full-game-using-react-native-e189361957.html
+  - [Practical React Native: Build Two full Projects and one full game using React Native](https://www.pdfdrive.com/practical-react-native-build-two-full-projects-and-one-full-game-using-react-native-e189361957.html)
 
 ### R
 
