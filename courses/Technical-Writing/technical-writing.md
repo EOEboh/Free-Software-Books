@@ -11,4 +11,4 @@ Please kindly follow this structure when you are contributing
 
 ### T
 
-- [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course/){:target="\_blank"}
+- [Technical Writing Certification Course](https://aptlearn.io/courses/technical-writing-certification-course/)
