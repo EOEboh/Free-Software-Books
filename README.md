@@ -1,7 +1,7 @@
 # List of Free Learning Books and Resources for Developers
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Introduction to what this repository is about.
@@ -91,6 +91,7 @@ We appreciate the help of these amazing persons, without them, this project will
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/adedejiibrahim7"><img src="https://avatars.githubusercontent.com/u/32352877?v=4?s=100" width="100px;" alt="Ibrahim Adedeji"/><br /><sub><b>Ibrahim Adedeji</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=adedejiibrahim7" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Jeen-Presh"><img src="https://avatars.githubusercontent.com/u/105419523?v=4?s=100" width="100px;" alt="Jeen-Presh"/><br /><sub><b>Jeen-Presh</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=Jeen-Presh" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://ebukanthony.netlify.app"><img src="https://avatars.githubusercontent.com/u/106475290?v=4?s=100" width="100px;" alt="ebuka anthony"/><br /><sub><b>ebuka anthony</b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=ebuka1-anthony" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/falsharion"><img src="https://avatars.githubusercontent.com/u/92723282?v=4?s=100" width="100px;" alt="Falomo Sharon simisola "/><br /><sub><b>Falomo Sharon simisola </b></sub></a><br /><a href="https://github.com/EOEboh/Free-Software-Books/commits?author=falsharion" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
