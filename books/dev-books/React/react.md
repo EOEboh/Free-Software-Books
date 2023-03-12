@@ -6,6 +6,9 @@ Please kindly follow this structure when you are contributing
 
 // List everything in alphabetical order (A - Z)
 // List them as a direct link to the resource (No redirects)
+  
+### A
+- [Animation in React](https://www.pdfdrive.com/animation-in-react-d58503420.html)
 
 ### H
 
@@ -25,7 +28,7 @@ Please kindly follow this structure when you are contributing
 ### P
 - [Pure React_ A step-by-step guide to mastering React. by Dave Ceddia](https://drive.google.com/file/d/1hlrv8qUes9FapMO6e86ZGIesWbi9kub3/view?usp=share_link)
   
-  - [Practical React Native: Build Two full Projects and one full game using React Native](https://www.pdfdrive.com/practical-react-native-build-two-full-projects-and-one-full-game-using-react-native-e189361957.html)
+- [Practical React Native: Build Two full Projects and one full game using React Native](https://www.pdfdrive.com/practical-react-native-build-two-full-projects-and-one-full-game-using-react-native-e189361957.html)
 
 ### R
 
