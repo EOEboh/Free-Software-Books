@@ -8,7 +8,7 @@ Please kindly follow this structure when you are contributing
 // List them as a direct link to the resource (No redirects)
   
 ### A
-- [Animation in React](https://www.pdfdrive.com/animation-in-react-d58503420.html)
+- [Animation in React](https://www.pdfdrive.com/download.pdf?id=58503420&h=330af1c83969f2c470e3ab5a5d024f77&u=cache&ext=pdf)
 
 ### H
 
@@ -21,19 +21,19 @@ Please kindly follow this structure when you are contributing
 - [Learning React Functional Web Development with React and Redux by Alex Banks & Eve Porcello](https://drive.google.com/file/d/1EA6KAMPj0HKTQ4goDpgXy8KhmhwKgnmH/view?usp=share_link)
   
 ### M
-- [Mastering Full-Stack React Web Development](https://www.pdfdrive.com/mastering-full-stack-react-web-development-d196879971.html)
+- [Mastering Full-Stack React Web Development]([https://www.pdfdrive.com/mastering-full-stack-react-web-development-d196879971.html](https://www.pdfdrive.com/download.pdf?id=196879971&h=0ae0edcb1e8bcb546a87f0b8668c1f3e&u=cache&ext=epub))
 
 ### O
 
 ### P
 - [Pure React_ A step-by-step guide to mastering React. by Dave Ceddia](https://drive.google.com/file/d/1hlrv8qUes9FapMO6e86ZGIesWbi9kub3/view?usp=share_link)
   
-- [Practical React Native: Build Two full Projects and one full game using React Native](https://www.pdfdrive.com/practical-react-native-build-two-full-projects-and-one-full-game-using-react-native-e189361957.html)
+- [Practical React Native: Build Two full Projects and one full game using React Native](https://www.pdfdrive.com/download.pdf?id=189361957&h=86077adf99c199e9929f5f84c91cf5ee&u=cache&ext=pdf)
 
 ### R
 
 - [ReactJS Book](https://goalkicker.com/ReactJSBook/)
-- [React Quickly: Painless Web Apps with React, JSX, Redux and GraphQL](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
+- [React Quickly: Painless Web Apps with React, JSX, Redux and GraphQL](https://www.pdfdrive.com/download.pdf?id=158280067&h=ccf567a5ece39afd4d14410c16f7e62a&u=cache&ext=pdf)
 
 ### T
 
