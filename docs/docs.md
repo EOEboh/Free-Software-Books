@@ -11,3 +11,7 @@ please kindly follow this structure when you are contributing
 ### D
 
 - [DevDocs](https://devdocs.io)
+
+### R
+
+- [React Query](https://react-query-v3.tanstack.com/overview)
