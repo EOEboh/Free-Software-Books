@@ -1,4 +1,4 @@
-# Other Books
+# Welcome to C++ Books
 
 [//]: # (Please kindly follow this structure when you are contributing)
 [//]: # "List everything in alphabetical order (A - Z)"
@@ -9,10 +9,10 @@
 
 The books are all arranged in alphabetical order:
 
-- [Welcome to Python Books](#other-books)
+- [Welcome to C++ Books](#welcome-to-c-books)
   - [Table of Contents](#table-of-contents)
-  - [R](#r)
+  - [D](#d)
 
-### R
+## D
 
-- [Refactoring UI](https://drive.google.com/file/d/1BBDRWce50nbml-L_PoT9eV2Yra4hvocP/view?usp=share_link)
+- [Data Structures & Algorithm Analysis in C++ by Clifford A. Shaffer](https://people.cs.vt.edu/~shaffer/Book/C++3e20130328.pdf)
