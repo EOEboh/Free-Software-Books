@@ -10,9 +10,11 @@ Please kindly follow this structure when you are contributing
 - [Title of the book pdf](direct link to the book)
   
 ### P 
-- [Pro TypeScript: Application-Scale JavaScript Development](https://www.pdfdrive.com/pro-typescript-application-scale-javascript-development-d158326358.html)
+- [Pro TypeScript: Application-Scale JavaScript Development](https://www.pdfdrive.com/download.pdf?id=158326358&h=2c8620e96637592a4a456a3524606f72&u=cache&ext=pdf)
 
 ### T
 
 - [TypeScript Deep Dive](https://www.programmer-books.com/wp-content/uploads/2018/08/typescript.pdf)
-- [TypeScript Essentials](https://www.pdfdrive.com/typescript-essentials-d19666302.html)
+
+### W
+- [What is TypeScript](https://www.pdfdrive.com/download.pdf?id=33605882&h=11f9769866533af687a3eefc88e1e429&u=cache&ext=pdf)
