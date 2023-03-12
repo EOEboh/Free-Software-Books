@@ -28,6 +28,7 @@ Please kindly follow this structure when you are contributing
 ### R
 
 - [ReactJS Book](https://goalkicker.com/ReactJSBook/)
+- [React Quickly: Painless Web Apps with React, JSX, Redux and GraphQL](https://www.pdfdrive.com/react-quickly-painless-web-apps-with-react-jsx-redux-and-graphql-d158280067.html)
 
 ### T
 
