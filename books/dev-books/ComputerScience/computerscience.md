@@ -27,6 +27,7 @@ The books are all arranged in alphabetical order:
 ## C
 
 - [Coding with Minecraft: Build Taller, Farm Faster, Mine Deeper, and Automate the Boring Stuff by Al Sweigart](https://turtleappstore.com/book/)
+- [Cisco Networking Academy Program CCNA 1 and 2 Companion Guide, Third Edition](https://www.pdfdrive.com/cisco-networking-academy-program-ccna-1-and-2-companion-guide-third-edition-d184137087.html)
 
 ## E
 
