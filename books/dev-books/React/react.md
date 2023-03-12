@@ -23,8 +23,6 @@ Please kindly follow this structure when you are contributing
 ### M
 - [Mastering Full-Stack React Web Development]([https://www.pdfdrive.com/mastering-full-stack-react-web-development-d196879971.html](https://www.pdfdrive.com/download.pdf?id=196879971&h=0ae0edcb1e8bcb546a87f0b8668c1f3e&u=cache&ext=epub))
 
-### O
-
 ### P
 - [Pure React_ A step-by-step guide to mastering React. by Dave Ceddia](https://drive.google.com/file/d/1hlrv8qUes9FapMO6e86ZGIesWbi9kub3/view?usp=share_link)
   
