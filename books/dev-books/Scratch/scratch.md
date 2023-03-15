@@ -1,4 +1,4 @@
-# Other Books
+# Welcome to Scratch Books
 
 [//]: # (Please kindly follow this structure when you are contributing)
 [//]: # "List everything in alphabetical order (A - Z)"
@@ -9,10 +9,10 @@
 
 The books are all arranged in alphabetical order:
 
-- [Welcome to Python Books](#other-books)
+- [Welcome to Scratch Books](#welcome-to-scratch-books)
   - [Table of Contents](#table-of-contents)
-  - [R](#r)
+  - [S](#s)
 
-### R
+## S
 
-- [Refactoring UI](https://drive.google.com/file/d/1BBDRWce50nbml-L_PoT9eV2Yra4hvocP/view?usp=share_link)
+- [Scratch 3 Programming Playground](https://inventwithscratch.com/book3/)

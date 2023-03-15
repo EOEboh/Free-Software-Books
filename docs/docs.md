@@ -11,3 +11,13 @@ please kindly follow this structure when you are contributing
 ### D
 
 - [DevDocs](https://devdocs.io)
+
+### R
+
+- [React Query](https://react-query-v3.tanstack.com/overview)
+- [React Js](https://reactjs.org/docs/getting-started.html)
+
+
+### V
+
+- [Vue JS](https://vuejs.org/guide/introduction.html)
