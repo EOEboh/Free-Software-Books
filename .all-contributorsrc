@@ -192,6 +192,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "romeopeter",
+      "name": "Romeo Agbor Peter",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31262143?v=4",
+      "profile": "https://romeopeter.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
