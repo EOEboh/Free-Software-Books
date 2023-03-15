@@ -183,6 +183,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Vinyl-Davyl",
+      "name": "Vinyl-Davyl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68241801?v=4",
+      "profile": "http://vinyldavyl.netlify.app",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
