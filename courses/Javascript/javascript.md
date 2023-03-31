@@ -12,3 +12,4 @@ Please kindly follow this structure when you are contributing
 ### J
 
 - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/){:target="\_blank"}
+- [Javascript Fundamental](https://www.youtube.com/watch?v=2Ji-clqUYnA&t=61s)
