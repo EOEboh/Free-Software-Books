@@ -49,7 +49,9 @@ Please kindly follow this structure when you are contributing
 
 - [JavaScript Grammer by JS Tut](https://drive.google.com/file/d/1wjQQv-SWg819cnwaEoRPJDImF4F2iXl7/view?usp=sharing)
 
-- [JavaScript: The Good Parts by Douglas Crockford](https://drive.google.com/file/d/12AcdopmMSvRMLalryBULo5-rDiS5KUNr/view?usp=drive_link)
+- [JavaScript: The Good Parts by Douglas Crockford](https://drive.google.com/file/d/12AcdopmMSvRMLalryBULo5-rDiS5KUNr/view?usp=sharing)
+
+- [JavaScript: Novice To Ninja by Darren James](https://drive.google.com/file/d/14c2Jnrd0h9PLIp9HL2KO0KIYH8eFf2wr/view?usp=sharing)
 
 ### K
 

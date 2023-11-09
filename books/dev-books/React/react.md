@@ -13,7 +13,7 @@ Please kindly follow this structure when you are contributing
 
 ### F
 
-- [Fullstack React: The Complete Guide to ReactJS and Friends](https://drive.google.com/file/d/0B5_bYKSaSy3kNmFmSlFJYXhhUXc/view?usp=drive_link&resourcekey=0-uK29Dy3ez9Kz23D76o3XnA)
+- [Fullstack React: The Complete Guide to ReactJS and Friends](https://drive.google.com/file/d/0B5_bYKSaSy3kNmFmSlFJYXhhUXc/view?usp=sharing&resourcekey=0-uK29Dy3ez9Kz23D76o3XnA)
 
 ### H
 
@@ -41,4 +41,4 @@ Please kindly follow this structure when you are contributing
 ### T
 
 - [Tao Of React](https://drive.google.com/file/d/1DAuQR9zNc9StCLBf9Zy2l6JJuy3Kuf0M/view?usp=share_link)
-- [The Road To Learn React](https://drive.google.com/file/d/1SfDIO3Xoj1QyQZEHkrQOUUY7K1FYEEzu/view?usp=drive_link)
+- [The Road To Learn React](https://drive.google.com/file/d/1SfDIO3Xoj1QyQZEHkrQOUUY7K1FYEEzu/view?usp=sharing)
